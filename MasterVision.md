@@ -1,4 +1,4 @@
-﻿# Master Plan Vision
+# Master Plan Vision
 
 ## Documents
 
